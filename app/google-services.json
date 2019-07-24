@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354743429235",
+    "firebase_url": "https://tgra-8d6c4.firebaseio.com",
+    "project_id": "tgra-8d6c4",
+    "storage_bucket": "tgra-8d6c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354743429235:android:8d6503cf36c7e528",
+        "android_client_info": {
+          "package_name": "com.ankit.tgra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354743429235-2saiuj7hsvij6psglmm0q2bp7m008a3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankit.tgra",
+            "certificate_hash": "8acc7eb0f578f7b45032b95a25c9f8b4197f495f"
+          }
+        },
+        {
+          "client_id": "354743429235-4qjo6jlibh0u14sp6hfutnjpfq6ebc8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vVhvWXM7M2mAU1izjKN7q2mDOtZntC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354743429235-4qjo6jlibh0u14sp6hfutnjpfq6ebc8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
